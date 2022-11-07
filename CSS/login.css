@@ -1,0 +1,84 @@
+body{
+  font-family: sans-serif;
+}
+.fontuser {
+  position: relative;
+}
+.fontuser i{
+  position: absolute;
+  left: 5px;
+  top: 35px;
+  color: black;
+  opacity: 0.6;
+  font-size: 20px;
+}
+.fontemail{
+  position: relative;
+}
+.fontemail i{
+  position: absolute;
+  left: 5px;
+  top: 35px;
+  color: black;
+  opacity: 0.6;
+  font-size: 18px;
+}
+.fontpassword {
+  position: relative;
+}
+.fontpassword i{
+  position: absolute;
+  left: 8px;
+  top: 35px;
+  color: black;
+  opacity: 0.6;
+  font-size: 20px;
+}
+input{
+  text-indent: 25px;
+  width: 60px;
+}
+.form-control{
+  width: 350px;
+  text-indent: 25px;
+}
+.container{
+  margin-top: 100px;
+  border: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  width: 800px;
+}
+.col-sm-4{
+    width: 50%;
+}
+.btn{
+  margin-top: 15px;
+  width: 350px;
+  margin-left: 0px;
+}
+.text1{
+  font-size: 25px;
+}
+.text2{
+  font-size: 15px;
+}
+.text3{
+  font-size: 13px;
+  color: orange;
+}
+.text4{
+  margin-left: 120px;
+  font-size: 20px;
+}
+button{
+  margin-left: -20px;
+  width: 150px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  padding: 6px;
+}
+.error{
+  color: red;
+
+}
